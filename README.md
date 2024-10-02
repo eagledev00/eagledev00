@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♂️</h1>
+<h3 align="center">🙋‍♂️</h3>
 <h1 align="center">EagleDEV</h1>
 <h3 align="center">A passionate backend developer with proven experience of top-tier backend solutions</h3>
 
